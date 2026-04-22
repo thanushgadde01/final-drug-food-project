@@ -1,0 +1,6 @@
+{
+  "name": "DrugFood InterCheck",
+  "description": "Predicts drug-food interactions using AI, providing detailed safety reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
