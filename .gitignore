@@ -6,3 +6,11 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Large datasets and databases
+food_dataset/
+dug_dataset/
+app.db
+*.json
+!package.json
+!tsconfig.json
